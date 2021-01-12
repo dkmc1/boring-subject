@@ -1,0 +1,12 @@
+h2.intro {
+  color:red;
+}
+
+p.intro {
+  background-color: seagreen;
+}
+
+img.intro {
+  image-orientation: flip;
+  background-color: orange;
+}
